@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 public class MyTestCases {
 //baraa
 WebDriver driver= new ChromeDriver ();
-
+WebDriver driver2= new EdgeDriver();
 String myWebsite = "https://magento.softwaretestingboard.com/";
 String signupPage="https://magento.softwaretestingboard.com/customer/account/create/";
 	
